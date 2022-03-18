@@ -39,13 +39,13 @@ main() {
   var imput2 = int.parse(num3!);
 
   print("\n");
-  print("ESTQOUE RESERVA ATUALIZADO:");
+  print("ESTOQUE RESERVA ATUALIZADO:");
 
   var transferenciaS = reserva - imput2;
   print(transferenciaS);
 
   print("\n");
-  print("ESTQOUE VENDAS ATUALIZADO:");
+  print("ESTOQUE VENDAS ATUALIZADO:");
 
   var trasnferenciaE = quantidade + imput2;
   print(trasnferenciaE);
